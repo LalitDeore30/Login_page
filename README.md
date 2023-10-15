@@ -22,6 +22,8 @@ You have to style it as per your way,which helps you to increase the knowledge r
 
 ## Project Preview
 Desktop View
+<img width="873" alt="Screenshot 2023-10-15 at 8 34 02 PM" src="https://github.com/LalitDeore30/Login_page/assets/115993677/950e8650-8d58-47f9-a012-75ad0078700d">
+
 
 
 ## How to Use
