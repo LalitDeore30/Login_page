@@ -22,7 +22,7 @@ You have to style it as per your way,which helps you to increase the knowledge r
 
 ## Project Preview
 Desktop View
-<img width="873" alt="Screenshot 2023-10-15 at 8 34 02 PM" src="https://github.com/LalitDeore30/Login_page/assets/115993677/950e8650-8d58-47f9-a012-75ad0078700d">
+<img width="768" alt="Screenshot 2023-10-15 at 10 33 05 PM" src="https://github.com/LalitDeore30/Login_page/assets/115993677/40a88122-64b9-4afa-aa7f-26a07384fb25">
 
 
 ## Complete the style.css code 
