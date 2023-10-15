@@ -27,26 +27,7 @@ Desktop View
 
 ## Complete the style.css code 
 
-body {
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-    font-family: Arial, sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-}
-
-.login-container {
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
-}
-
-/* Add your own custom styles here */
+<img width="553" alt="Screenshot 2023-10-15 at 10 26 08 PM" src="https://github.com/LalitDeore30/Login_page/assets/115993677/5ce78ddc-abed-486f-a0d4-c794386d0a73">
 
 
 
