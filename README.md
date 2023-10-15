@@ -1,7 +1,7 @@
 
 # Project Name: Simple Login Page
 
-Project Link : 
+Project Link :  https://lalitdeore30.github.io/Login_page/
 
 ## Overview
 
@@ -22,6 +22,12 @@ The main objective of this project is to design and implement a straightforward 
 ## Project Preview
 
 Insert screenshots of the login page here to provide a visual representation of the project.
+
+## Screenshot 
+
+1. Desktop View 
+
+
 
 ## How to Use
 
