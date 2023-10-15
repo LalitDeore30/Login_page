@@ -18,16 +18,11 @@ This project involves creating a simple login page using HTML and CSS. The login
 ## Project Description
 
 The main objective of this project is to design and implement a straightforward login page. It is intended to be a foundation for more advanced authentication systems. The login page consists of input fields for username and password, as well as a login button.
+You have to style it as per your way,which helps you to increase the knowledge regarding css .
 
 ## Project Preview
-
-Insert screenshots of the login page here to provide a visual representation of the project.
-
-## Screenshot 
-
-1. Desktop View 
-
-
+Desktop View
+<img width="1433" alt="Screenshot 2023-10-15 at 10 44 42 AM" src="https://github.com/LalitDeore30/Login_page/assets/115993677/307e760e-d977-4fac-9f32-64ff8298b94f"> 
 
 ## How to Use
 
@@ -48,7 +43,6 @@ Insert screenshots of the login page here to provide a visual representation of 
 - CSS
 
 ## Contributing
-
 If you'd like to contribute to this project, you can follow these steps:
 
 1. Fork the repository to your GitHub account.
